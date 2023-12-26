@@ -1,2 +1,2 @@
 # common-css-properties
- project for code academy
+[Open here](https://redesu.github.io/common-css-properties/)
